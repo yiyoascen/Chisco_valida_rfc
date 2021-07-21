@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+chisco_valida_rfc/__init__.py
+chisco_valida_rfc.egg-info/PKG-INFO
+chisco_valida_rfc.egg-info/SOURCES.txt
+chisco_valida_rfc.egg-info/dependency_links.txt
+chisco_valida_rfc.egg-info/requires.txt
+chisco_valida_rfc.egg-info/top_level.txt
